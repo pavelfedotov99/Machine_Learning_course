@@ -1,1 +1,1 @@
-# Machine_Learning_course
+Implementation of scikit-learn ML models, manual implementation of ML algorithms, NLP introduction
